@@ -7,5 +7,7 @@ I write a *lot* of TypeScript. I've been known to Kubernetes once in a while. I 
 I love giving talks. Invite me to your conference.
 
 Here's the info that really matters:
+
 🎸 Gibson SGs
+
 🔈 Orange Amps
